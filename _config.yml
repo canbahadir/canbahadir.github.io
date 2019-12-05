@@ -27,6 +27,7 @@ projects:
     archived: false
     forks: true
     projects:
+      - atlas
     # - repo-name
 
 social_media:
